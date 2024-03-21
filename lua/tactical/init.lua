@@ -1,3 +1,3 @@
-print("hello from tactical")
+print("Welcome back, BIG BOSS")
 require("tactical.remap")
 -- require("tactical.set")
